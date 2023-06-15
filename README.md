@@ -1,2 +1,2 @@
-# PrepCourse-Henry
+# PrepCourseHenry
 Este repositorio es del módulo 2 del PrepCourse de Hnery
